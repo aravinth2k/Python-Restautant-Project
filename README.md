@@ -25,3 +25,30 @@ The Pearls Restaurant Management System is designed to streamline the operations
 
    ```shell
    git clone https://github.com/your-username/pearls-restaurant-management-system.git
+
+    Change into the project directory:
+
+    shell
+
+cd pearls-restaurant-management-system
+
+Run the project:
+
+shell
+
+    python main.py
+
+Usage
+
+    Book a table by entering the number of persons and the name for the reservation.
+    Display the restaurant's menu to view available items and their prices.
+    Take orders by selecting the food items and specifying the quantities.
+    Generate bills for tables, which include a breakdown of the order items and total amount.
+    Provide feedback on the service by rating the dining experience.
+
+Contributing
+
+Contributions to the Pearls Restaurant Management System are always welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+License
+
+This project is licensed under the MIT License.
