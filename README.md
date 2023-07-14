@@ -24,12 +24,12 @@ The Pearls Restaurant Management System is designed to streamline the operations
 1. Clone the project repository:
 
    ```shell
-   git clone https://github.com/your-username/pearls-restaurant-management-system.git
+   https://github.com/aravinth2k/Python-Restautant-Project.git
    
 2. Change into the project directory:
 
    ```shell
-   cd pearls-restaurant-management-system
+   cd Python-Restautant-Project
 
 3. Run the project:
 
@@ -48,6 +48,6 @@ The Pearls Restaurant Management System is designed to streamline the operations
 
 Contributions to the Pearls Restaurant Management System are always welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
-##License
+## License
 
 This project is licensed under the MIT License.
