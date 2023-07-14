@@ -50,4 +50,4 @@ Contributions to the Pearls Restaurant Management System are always welcome! If 
 
 ## License
 
-This project is licensed under the [LICENSE]MIT License.
+This project is licensed under the MIT License.
