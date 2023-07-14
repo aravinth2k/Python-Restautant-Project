@@ -31,12 +31,12 @@ The Pearls Restaurant Management System is designed to streamline the operations
    ```shell
    cd pearls-restaurant-management-system
 
-3.  Run the project:
- 
+3. Run the project:
+
    ```shell
    python main.py
 
-4.  Usage
+4.  Usage:
 
     Book a table by entering the number of persons and the name for the reservation.
     Display the restaurant's menu to view available items and their prices.
@@ -47,6 +47,7 @@ The Pearls Restaurant Management System is designed to streamline the operations
 Contributing
 
 Contributions to the Pearls Restaurant Management System are always welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+
 License
 
 This project is licensed under the MIT License.
