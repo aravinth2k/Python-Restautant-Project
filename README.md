@@ -37,15 +37,13 @@ The Pearls Restaurant Management System is designed to streamline the operations
    python main.py
 
 4.  Usage:
-
-    Book a table by entering the number of persons and the name for the reservation.
-    Display the restaurant's menu to view available items and their prices.
-    Take orders by selecting the food items and specifying the quantities.
-    Generate bills for tables, which include a breakdown of the order items and total amount.
-    Provide feedback on the service by rating the dining experience.
+    1. Book a table by entering the number of persons and the name for the reservation.
+    2. Display the restaurant's menu to view available items and their prices.
+    3. Take orders by selecting the food items and specifying the quantities.
+    4. Generate bills for tables, which include a breakdown of the order items and total amount.
+    5. Provide feedback on the service by rating the dining experience.
 
 Contributing
-
 Contributions to the Pearls Restaurant Management System are always welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
 License
