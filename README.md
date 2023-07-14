@@ -25,20 +25,18 @@ The Pearls Restaurant Management System is designed to streamline the operations
 
    ```shell
    git clone https://github.com/your-username/pearls-restaurant-management-system.git
+   
+2. Change into the project directory:
 
-    Change into the project directory:
+   ```shell
+   cd pearls-restaurant-management-system
 
-    shell
+3.  Run the project:
+ 
+   ```shell
+   python main.py
 
-cd pearls-restaurant-management-system
-
-Run the project:
-
-shell
-
-    python main.py
-
-Usage
+4.  Usage
 
     Book a table by entering the number of persons and the name for the reservation.
     Display the restaurant's menu to view available items and their prices.
