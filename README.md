@@ -1,16 +1,27 @@
-# Python-Restautant-Project
-To create Restaurant style application using Python
+# Pearls Restaurant Management System
 
-Read Restaurant_probem.docx file to get more detail about the Problem 
+Welcome to the Pearls Restaurant Management System! This Python project enables efficient management of tables, menu items, orders, and bill generation for a restaurant. It offers various functionalities such as table booking, menu display, order placement, and bill generation.
 
-Restaurant Main.py python file has code to complete the tasks given in Problem statement.
-  * Exception Handling
-  * File Handling
-  * Python Control Statements
-  * Python Data Types
-  * Python Modules
-  * OOPS
+## Table of Contents
 
-Try to implement these python concepts in this project
+- [Project Overview](#project-overview)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-linkedin post link :- 
+## Project Overview
+
+The Pearls Restaurant Management System is designed to streamline the operations of a restaurant. It provides the following features:
+
+- Menu display: View the restaurant's menu items along with their prices.
+- Table booking: Reserve a table for a specific number of persons.
+- Order placement: Place food orders for a booked table.
+- Bill generation: Generate a detailed bill for each table, including the order items, quantities, prices, and total amount.
+
+## Installation
+
+1. Clone the project repository:
+
+   ```shell
+   git clone https://github.com/your-username/pearls-restaurant-management-system.git
